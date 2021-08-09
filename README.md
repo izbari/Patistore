@@ -2,6 +2,6 @@
 
 * Flatlist,
 * Callback functions,
-* read data json format,
+* Read data json format,
 * Conditional rendering components,
 * InputText and various CSS syntax...
